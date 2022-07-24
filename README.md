@@ -5,3 +5,5 @@ Simple launcher for the Codewalker software for GTA V.
 
 ## Installation:
 Grab the files from the `releases` section, and drag and drop them to the root of your Codewalker install.
+
+Please note, [.NET 6.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) is required.
