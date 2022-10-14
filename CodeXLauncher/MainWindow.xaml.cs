@@ -14,7 +14,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Diagnostics;
 
-namespace CodewalkerLauncher
+namespace CodeXLauncher
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -28,26 +28,26 @@ namespace CodewalkerLauncher
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            Process.Start("Codewalker.exe");
+            Process.Start("CodeX.exe");
             Environment.Exit(0);
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            Process.Start("Codewalker.exe", "explorer");
+            Process.Start("CodeX.Explorer.exe");
             Environment.Exit(0);
         }
-
-        private void Button_Click_2(object sender, RoutedEventArgs e)
+        
+        /*private void Button_Click_2(object sender, RoutedEventArgs e)
         {
-            Process.Start("Codewalker.exe", "peds");
+            Process.Start("CodeWalker.exe", "peds");
             Environment.Exit(0);
         }
 
         private void Button_Click_3(object sender, RoutedEventArgs e)
         {
-            Process.Start("Codewalker.exe", "vehicles");
+            Process.Start("CodeWalker.exe", "vehicles");
             Environment.Exit(0);
-        }
+        } */
     }
 }

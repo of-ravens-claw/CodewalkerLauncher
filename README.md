@@ -1,9 +1,9 @@
-# CodewalkerLauncher
-Simple launcher for the Codewalker software for GTA V.
+# CodeX Launcher
+Simple launcher for the CodeX software by dexyfex.
 
-![Simple UI of the Codewalker launcher, contains 4 buttons, the upper most button is labeled as "World View", and has a description of "Lets you explore the game map", the one below that is labeled "RPF Explorer" and has a description of "Lets you explore the game files", the one below that is labeled as "Ped Viewer" and has a description of "Lets you explore game peds", and the final button is labeled "Vehicle Viewer", and has a description of "Lets you explore game vehicles"... I hope whoever checking this is happy, it was annoying to write.](https://cdn.discordapp.com/attachments/734156197111791698/954165765723021352/unknown.png)
+![Simple UI of the CodeX launcher, contains 4 buttons, the upper most button is labeled as "CodeX", and has a description of "Lets you explore the map", the one below that is labeled "CodeX Explorer" and has a description of "Lets you explore game files"... I hope whoever checking this is happy, it was annoying to write.](https://cdn.discordapp.com/attachments/935957107268812873/1030331149215596564/unknown.png)
 
 ## Installation:
-Grab the files from the `releases` section, and drag and drop them to the root of your Codewalker install.
+Grab the files from the `releases` section, and drag and drop them to the root of your CodeX install.
 
-Please note, .NET 6.0 is required to build this project.
+Please note, .NET 6.0 is required to build *and run* this project.

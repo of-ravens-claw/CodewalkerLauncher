@@ -6,11 +6,11 @@
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
     <AssemblyName>$(MSBuildProjectName)</AssemblyName>
-    <ApplicationIcon>CWLauncher.ico</ApplicationIcon>
+    <ApplicationIcon>CXLauncher.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="CWLauncher.ico" />
+    <Content Include="CXLauncher.ico" />
   </ItemGroup>
 
 </Project>
